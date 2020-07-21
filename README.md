@@ -1,2 +1,2 @@
 # RPA-Developer-Foundation-in-UiPath
-<h4>Diploma of Completion<h4>
+<h2>Diploma of Completion<h2>
